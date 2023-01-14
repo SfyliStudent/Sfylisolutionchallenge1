@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="style/style.css">
+  <title>Frontend Mentor | QR code component</title>
+</head>
+<body>
+    <body style="background-color:rgb(200, 211, 219);"> </body>
+    <div class="container">
+      <img class img class="qr-code" src="images\image-qr-code.png">
+      <div class="in"> <h3> Improve your font-end skills by bulding projects </h3> 
+        <p>Scan the QR Code to visit Frontend Mentor and take your coding skills to the next level </p>
+       
+      
+    </div>
+   
+
+
+</body>
+</html>
